@@ -1,0 +1,2 @@
+Content/Level/Village/Maps/Village.umap filter=lfs diff=lfs merge=lfs -text
+Content/Level/Village/Maps/Village_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
